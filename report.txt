@@ -1,0 +1,9 @@
+Docking Analysis Report
+=======================
+
+Best Binding Energy: -8.5 kcal/mol
+Interpretation: Strong binding affinity
+
+Interacting Residues (≤ 4.0 Å):
+- ASP102
+- HIS41
